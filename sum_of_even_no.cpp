@@ -15,6 +15,6 @@ int main() {
             continue;
         }
     }
-    cout<<"Sum of even numbers : "<<sum1git;
+    cout<<"Sum of even numbers : "<<sum1;
 
 }
